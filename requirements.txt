@@ -1,0 +1,6 @@
+requests
+aiosqlite
+sqlalchemy
+fastapi
+uvicorn
+pydantic
