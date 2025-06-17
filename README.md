@@ -1,2 +1,3 @@
-# Horoscope_API
-This project stores information about users, their zodiac signs, and daily forecasts in a database.
+Для запуска сначала зайдите в src: cd src, затем введите команду: uvicorn main:app --reload
+
+Документация Swagger: http://127.0.0.1:8000/docs
